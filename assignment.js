@@ -1,3 +1,6 @@
+//https://github.com/abhRatul/assignment-3
+
+
 // kilometerToMeter
 function kilometerToMeter(km)
 {
@@ -72,6 +75,6 @@ function megaFriend(friends)
     return longestName;
 }
 
-var friendsName=["mamun","Kaji Al Mamun","Kazi Al Amin","Kazi Al Roman"];
+var friendsName=["Abh","Ratul","kala bala","Selim chura"];
 var megaName = megaFriend(friendsName);
 console.log(megaName);
